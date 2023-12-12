@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+streamlit-option-menu
+scikit-learn
+clf
+google-play-scraper
+matplotlib
+googletrans==4.0.0-rc1
+nltk
